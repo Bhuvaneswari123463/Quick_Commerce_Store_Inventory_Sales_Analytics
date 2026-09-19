@@ -479,12 +479,3 @@ GitHub:
 **MySQL • SQL • Data Analytics • Business Intelligence • Inventory Analytics • Sales Analytics • Relational Database Design**
 
 ---
-
-## 📄 License
-
-This project is intended for educational, portfolio, and demonstration purposes.
-
-```
-
-**This is the complete version**. Paste the entire block into your GitHub `README.md` editor and commit it.
-```
