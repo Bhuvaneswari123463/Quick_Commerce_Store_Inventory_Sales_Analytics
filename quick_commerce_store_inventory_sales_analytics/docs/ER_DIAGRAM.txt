@@ -1,0 +1,10 @@
+
+STORES 1 ──────── * ORDERS * ──────── 1 CUSTOMERS
+  │                  │
+  │                  │
+  │                  * ORDER_ITEMS * ──── 1 PRODUCTS * ──── 1 CATEGORIES
+  │
+  * INVENTORY * ──────────────────────── 1 PRODUCTS
+
+Key business flow:
+Store -> Inventory -> Customer Order -> Order Items -> Sales Analytics

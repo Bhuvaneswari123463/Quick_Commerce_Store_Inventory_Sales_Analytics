@@ -1,0 +1,23 @@
+product_id,product_name,category_id,unit_price
+1,Milk 1L,1,45
+2,Curd 500g,1,35
+3,Bread,1,40
+4,Eggs 12 Pack,1,78
+5,Banana 1kg,2,55
+6,Tomato 1kg,2,38
+7,Potato 1kg,2,42
+8,Onion 1kg,2,45
+9,Biscuits Pack,3,30
+10,Potato Chips,3,35
+11,Cola 750ml,3,55
+12,Fruit Juice 1L,3,110
+13,Rice 5kg,4,320
+14,Wheat Flour 5kg,4,280
+15,Toor Dal 1kg,4,165
+16,Cooking Oil 1L,4,145
+17,Shampoo 180ml,5,190
+18,Toothpaste 150g,5,125
+19,Bath Soap 4 Pack,5,160
+20,Dishwash Liquid 500ml,6,120
+21,Laundry Detergent 1kg,6,180
+22,Floor Cleaner 1L,6,155
